@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Ignix Friend",
+    "username": "SoloCloudHosting",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Youtuberfamily.aternos.me",
-    "port": "24502" ,
+    "ip": "solocloud.host",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,14 +32,13 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Ignix limitless !",
-        "Chal Nikal",
-        "paas mat ana"
+        "Subscribe to SoloPlayz!",
+        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 200,
+    "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
   },
   "movement": {
